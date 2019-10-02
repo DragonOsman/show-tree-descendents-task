@@ -1,0 +1,30 @@
+{
+  "name": "show-tree-descendents-task",
+  "version": "1.0.0",
+  "description": "javascript.info \"Modifying the DOM\" Task 6",
+  "main": "scripts/script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DragonOsman/show-tree-descendents-task.git"
+  },
+  "keywords": [
+    "task6",
+    "modifying-dom",
+    "javascript.info"
+  ],
+  "author": "Osman Zakir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DragonOsman/show-tree-descendents-task/issues"
+  },
+  "homepage": "https://github.com/DragonOsman/show-tree-descendents-task#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.5.1",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
