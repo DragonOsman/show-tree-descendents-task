@@ -1,3 +1,4 @@
+"use strict";
 const listItems = document.getElementsByTagName("li");
 for (const listItem of listItems) {
   const childCount = listItem.getElementsByTagName("li").length;
